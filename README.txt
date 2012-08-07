@@ -1,0 +1,1 @@
+the tool uses LZW lossless data compression algorithm(http://en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Welch) to compress text field in salesforce. It does NOT work fully, and I ported the algorithm into apex. 
